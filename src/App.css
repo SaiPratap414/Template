@@ -10,6 +10,11 @@
   padding: 20px;
   border-right: 1px solid #e5e5e5;
 }
+.sidebar .icon {
+  margin-right: 8px; /* Adds spacing between the icon and the text */
+  font-size: 18px;   /* Adjust the icon size */
+  vertical-align: middle; /* Aligns the icon with the text */
+}
 
 .content {
   flex-grow: 1;
